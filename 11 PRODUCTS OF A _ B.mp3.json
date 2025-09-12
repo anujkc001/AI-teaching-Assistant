@@ -1,0 +1,179 @@
+{
+  "chunks": [
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 0.0,
+      "end": 5.36,
+      "text": " Next question is what is product of A and B?"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 5.36,
+      "end": 9.36,
+      "text": " A multiplied by B"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 9.36,
+      "end": 12.16,
+      "text": " So how to calculate product of two numbers?"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 12.16,
+      "end": 18.48,
+      "text": " Like math has sum and product, same way Java has sum and product"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 18.48,
+      "end": 22.88,
+      "text": " Here instead of multiplying we put asterisk in Java"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 22.88,
+      "end": 27.68,
+      "text": " So first we have to make our scanner object"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 28.08,
+      "end": 36.0,
+      "text": " Then we will take input A using sc.next int"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 36.0,
+      "end": 42.88,
+      "text": " Then we will take input B using sc.next int"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 42.88,
+      "end": 47.760000000000005,
+      "text": " Then we will take product of both of them and make a variable"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 47.760000000000005,
+      "end": 52.879999999999995,
+      "text": " Integer type of product is equal to A multiplied by B"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 52.96,
+      "end": 58.0,
+      "text": " And finally we will print the value of our product"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 58.0,
+      "end": 62.160000000000004,
+      "text": " So we have to write the same code as we wrote for sum"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 62.160000000000004,
+      "end": 65.2,
+      "text": " Here instead of sum we will take product"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 65.2,
+      "end": 70.32000000000001,
+      "text": " And instead of plus we will write multiply and print the same product"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 70.32000000000001,
+      "end": 72.48,
+      "text": " Now let's write code directly for this"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 72.48,
+      "end": 76.0,
+      "text": " In fact, let's change our old code"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 76.0,
+      "end": 79.44,
+      "text": " For us, the scanner line will be constant"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 79.44,
+      "end": 82.56,
+      "text": " We have to take input A and B"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 82.56,
+      "end": 85.36,
+      "text": " But this time we don't have to calculate sum"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 85.36,
+      "end": 91.68,
+      "text": " This time we have to do int product is equal to A multiplied by B"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 91.68,
+      "end": 95.60000000000001,
+      "text": " So this is the same asterisk sign which we used earlier"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 95.60000000000001,
+      "end": 98.4,
+      "text": " As soon as we use this, we get the product"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 98.4,
+      "end": 100.80000000000001,
+      "text": " Means A multiplied by B will be calculated first"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 100.80000000000001,
+      "end": 104.0,
+      "text": " And then it will be stored in the product"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 104.0,
+      "end": 107.36,
+      "text": " And now we will print the product"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 107.36,
+      "end": 111.68,
+      "text": " So let's save it and run it"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 112.64,
+      "end": 115.92,
+      "text": " So first of all, we enter A, we enter 10"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 115.92,
+      "end": 118.16000000000001,
+      "text": " We enter B, we enter 5"
+    },
+    {
+      "number": "11 PRODUCTS OF A ",
+      "start": 118.16000000000001,
+      "end": 122.72000000000001,
+      "text": " And what is the product? 10 multiplied by 5 which is equal to 50"
+    }
+  ],
+  "text": " Next question is what is product of A and B? A multiplied by B So how to calculate product of two numbers? Like math has sum and product, same way Java has sum and product Here instead of multiplying we put asterisk in Java So first we have to make our scanner object Then we will take input A using sc.next int Then we will take input B using sc.next int Then we will take product of both of them and make a variable Integer type of product is equal to A multiplied by B And finally we will print the value of our product So we have to write the same code as we wrote for sum Here instead of sum we will take product And instead of plus we will write multiply and print the same product Now let's write code directly for this In fact, let's change our old code For us, the scanner line will be constant We have to take input A and B But this time we don't have to calculate sum This time we have to do int product is equal to A multiplied by B So this is the same asterisk sign which we used earlier As soon as we use this, we get the product Means A multiplied by B will be calculated first And then it will be stored in the product And now we will print the product So let's save it and run it So first of all, we enter A, we enter 10 We enter B, we enter 5 And what is the product? 10 multiplied by 5 which is equal to 50"
+}

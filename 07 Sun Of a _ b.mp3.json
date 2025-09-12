@@ -1,0 +1,179 @@
+{
+  "chunks": [
+    {
+      "number": "7 Sun Of a ",
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Now we will solve a small question, the name of the question is sum of a and b"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 4.0,
+      "end": 11.0,
+      "text": " We have to define two variables, one variable will be of integer type"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 11.0,
+      "end": 17.0,
+      "text": " Which we will name as a, we will store some value in a, suppose we have stored 10"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 17.0,
+      "end": 24.0,
+      "text": " So what we did with this statement, we defined an integer variable of a, in which we have stored value 10"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 24.0,
+      "end": 31.0,
+      "text": " Second thing we have to do is, we have to define another variable b, in b we have to store some other value"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 31.0,
+      "end": 38.0,
+      "text": " Suppose we have stored 5, so here we have made an int type variable b, in which we have stored value 5"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 38.0,
+      "end": 44.0,
+      "text": " After that we have to find out the sum of these two, so to find out the sum we will make a third variable"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 44.0,
+      "end": 53.0,
+      "text": " Its type will also be int, we will name it as sum, or we can name it as c, d or x"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 53.0,
+      "end": 58.0,
+      "text": " Here we have given sum name, because we have to keep the name of variables logical"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 58.0,
+      "end": 63.0,
+      "text": " This will help us a lot in interviews, because those programmers are very impressive"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 63.0,
+      "end": 69.0,
+      "text": " Whose variables names are logical, means after reading the variable we can understand what is stored in the variable"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 69.0,
+      "end": 74.0,
+      "text": " Now what is the sum, we know that if it was math, then what we would have done"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 74.0,
+      "end": 80.0,
+      "text": " In math we know that int a is equal to 10, b is equal to 5, so we would have written c is equal to a plus b"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 81.0,
+      "end": 88.0,
+      "text": " So the same thing will happen here, we will write a plus b and then our statement terminator"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 88.0,
+      "end": 95.0,
+      "text": " So what will happen by this, a and b both will be calculated and will come under our sum variable"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 95.0,
+      "end": 103.0,
+      "text": " Let's see its visualization in memory, as soon as we execute this first line, similarly in memory"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 103.0,
+      "end": 111.0,
+      "text": " A variable will be formed, in which value will be stored as 10, similarly in memory b variable will be formed"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 111.0,
+      "end": 118.0,
+      "text": " In which value will be 5, similarly we will execute this line, int sum is equal to a plus b"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 118.0,
+      "end": 126.0,
+      "text": " So first of all we will bring the sum of a in memory, which is 10, then compiler will find b value"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 127.0,
+      "end": 134.0,
+      "text": " If it will bring this value, then value of b and a will be added and it will become 15"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 134.0,
+      "end": 142.0,
+      "text": " Now we have to make a new variable in memory which is sum, so here somewhere else a variable named sum will be formed"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 142.0,
+      "end": 150.0,
+      "text": " In which total value of both of them will be stored as 15, and then we can print this sum"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 150.0,
+      "end": 160.0,
+      "text": " Here we will write print statement and then sum, for this sum code, we will remove the old code from existing class"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 160.0,
+      "end": 167.0,
+      "text": " And first of all we will define our variable a, int a is equal to 10, then we will write int b is equal to 5"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 167.0,
+      "end": 176.0,
+      "text": " Finally we will make third variable, sum is equal to a plus b and then we will print the value of our sum"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 176.0,
+      "end": 182.0,
+      "text": " What we will write, system.out.println, then we will write sum inside, we will save this"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 182.0,
+      "end": 189.0,
+      "text": " Now we will run the same thing from terminal and now sum is printed for us which is 15"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 189.0,
+      "end": 196.0,
+      "text": " What we did internally, a little revision, we created 10 in memory, created 5 in memory"
+    },
+    {
+      "number": "7 Sun Of a ",
+      "start": 196.0,
+      "end": 207.0,
+      "text": " Then we stored sum of a and b which is 10 and 5 which is 15 inside sum and finally we printed it by system.out.println"
+    }
+  ],
+  "text": " Now we will solve a small question, the name of the question is sum of a and b We have to define two variables, one variable will be of integer type Which we will name as a, we will store some value in a, suppose we have stored 10 So what we did with this statement, we defined an integer variable of a, in which we have stored value 10 Second thing we have to do is, we have to define another variable b, in b we have to store some other value Suppose we have stored 5, so here we have made an int type variable b, in which we have stored value 5 After that we have to find out the sum of these two, so to find out the sum we will make a third variable Its type will also be int, we will name it as sum, or we can name it as c, d or x Here we have given sum name, because we have to keep the name of variables logical This will help us a lot in interviews, because those programmers are very impressive Whose variables names are logical, means after reading the variable we can understand what is stored in the variable Now what is the sum, we know that if it was math, then what we would have done In math we know that int a is equal to 10, b is equal to 5, so we would have written c is equal to a plus b So the same thing will happen here, we will write a plus b and then our statement terminator So what will happen by this, a and b both will be calculated and will come under our sum variable Let's see its visualization in memory, as soon as we execute this first line, similarly in memory A variable will be formed, in which value will be stored as 10, similarly in memory b variable will be formed In which value will be 5, similarly we will execute this line, int sum is equal to a plus b So first of all we will bring the sum of a in memory, which is 10, then compiler will find b value If it will bring this value, then value of b and a will be added and it will become 15 Now we have to make a new variable in memory which is sum, so here somewhere else a variable named sum will be formed In which total value of both of them will be stored as 15, and then we can print this sum Here we will write print statement and then sum, for this sum code, we will remove the old code from existing class And first of all we will define our variable a, int a is equal to 10, then we will write int b is equal to 5 Finally we will make third variable, sum is equal to a plus b and then we will print the value of our sum What we will write, system.out.println, then we will write sum inside, we will save this Now we will run the same thing from terminal and now sum is printed for us which is 15 What we did internally, a little revision, we created 10 in memory, created 5 in memory Then we stored sum of a and b which is 10 and 5 which is 15 inside sum and finally we printed it by system.out.println"
+}

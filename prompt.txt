@@ -1,0 +1,6 @@
+I am teaching web development in my Sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"number":"11 PRODUCTS OF A ","start":70.32,"end":72.48,"text":" Now let's write code directly for this"},{"number":"11 PRODUCTS OF A ","start":72.48,"end":76.0,"text":" In fact, let's change our old code"},{"number":"11 PRODUCTS OF A ","start":115.92,"end":118.16,"text":" We enter B, we enter 5"},{"number":"11 PRODUCTS OF A ","start":5.36,"end":9.36,"text":" A multiplied by B"},{"number":"11 PRODUCTS OF A ","start":79.44,"end":82.56,"text":" We have to take input A and B"}]
+---------------------------------
+"video number"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
