@@ -1,5 +1,9 @@
-# RAG-based-AI-teaching-Assistant
-# How To use this RAG AI Teaching assistant on your own data
+# 🎓 RAG-Based AI Teaching Assistant
+
+This project is a **Retrieval-Augmented Generation (RAG)** pipeline that converts your own lecture videos into an **AI-powered teaching assistant**.  
+The workflow extracts transcripts, embeds them for semantic search, and uses an LLM to answer queries based on your content.
+## 📂 Project Structure
+
 ## Step 1- Collect our videos
 Move all video files to the videos folder
 
