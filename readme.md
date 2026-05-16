@@ -1,8 +1,8 @@
-# 🎓 RAG-Based AI Teaching Assistant
+# RAG-Based AI Teaching Assistant
 
 This project is a **Retrieval-Augmented Generation (RAG)** pipeline that converts your own lecture videos into an **AI-powered teaching assistant**.  
 The workflow extracts transcripts, embeds them for semantic search, and uses an LLM to answer queries based on your content.
-## 📂 Project Structure
+##  Project Structure
 
 ## Step 1- Collect our videos
 Move all video files to the videos folder
@@ -32,8 +32,8 @@ Read the joblib file and load it into the memory. Then create relevant prompt as
 
 
 
-
-RAG_based_ai/
+##
+## RAG_based_ai/
 │── videos/                # Place your video files here
 │── video_to_mp3.py        # Convert videos → mp3
 │── mp3_to_json.py         # Convert mp3 → text/json
